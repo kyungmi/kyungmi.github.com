@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Purecolor
 tagline:             
 description:         
-url:                 http://kyungmi.github.io
+url:                 "http://kyungmi.github.io"
 paginate:            5
 baseurl:             ""
 
