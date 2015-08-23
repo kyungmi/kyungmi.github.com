@@ -3,9 +3,11 @@
 // Inline and block-level code snippets. Includes tweaks to syntax highlighted
 // snippets from Pygments/Rouge and Gist embeds.
 
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "Nanum Gothic Coding", Menlo, Monaco, "Courier New", monospace;
 }
 
 code {
