@@ -7,8 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Purecolor
 tagline:             
+description:         
 url:                 http://kyungmi.github.io
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -25,6 +26,6 @@ author:
   email:             purecolor85@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
   repo:              https://github.com/kyungmi/kyungmi.github.io
